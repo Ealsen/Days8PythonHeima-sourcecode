@@ -1,4 +1,4 @@
 # Days8PythonHeima-sourcecode
-黑马程序员最新Python教程，8天python从入门到精通，学python看这套就够了-哔哩哔哩】 https://b23.tv/mSLGWMI 
+黑马程序员最新Python教程，8天python从入门到精通，学python看这套就够了-哔哩哔哩】 课程网址https://b23.tv/mSLGWMI 
 ---------------------------
 本课程无缝衔接数据开发、人工智能、数据分析，后续挑战30w年薪。从零基础开始入门学习Python，开发环境使用最新版python3.10，从软件下载，IDE使用，让学生一步步了解Python，掌握Python基础语法，掌握代码编写的规范和技巧，Bug调试能力，用Python第三方库做出可视化图表。课程+配套练习学练结合，锻炼学生的自主解决问题的能力和举一反三能力，课堂生动有趣，不枯燥。
